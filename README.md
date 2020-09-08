@@ -5,7 +5,9 @@ automated.
 
 ## As of 9/8/2020 These are the the general goals I will try to accomplish.
 - [ ] Download documents
+  - [ ] Download from a Single site
+  - [ ] target PDF files
 - [ ] Parse through the documents
-- [ ] Make it possible to read the PDF
+  - [ ] Make it possible to read the PDF
 - [ ] Sort through the information
 - [ ] Store in a Database to so that it can be manipulated later
